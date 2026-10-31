@@ -1,0 +1,5 @@
+docker compose up -d //запуск
+
+docker compose stop //остановка
+
+docker compose down //выключить  удалить контейнер
